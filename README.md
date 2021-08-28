@@ -8,4 +8,6 @@
 ✅ Incluye certificación digital.  <br/>
 ⬇️ Informes e inscripciones aquí ⬇️:  <br/>
 https://bit.ly/bootcamp-fullstack-dojopy
+<br/>
+![alt text](https://github.com/dojopy/Netflix-Clone-Python-y-React-/blob/main/bootcamp_fullstack_image.png)
 
